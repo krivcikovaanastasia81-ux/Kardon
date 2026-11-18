@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #1e1e1e;
+  cursor:
+    url("../images/cursor.svg") 2 2,
+    auto;
+}
+h1 {
+  color: #1e1e1e;
+  font-family: "Offbit";
+  font-size: 5vw;
+  line-height: vw;
+  -webkit-text-stroke-width: 0.7vw;
+  -webkit-text-stroke-color: #ffffff;
+  paint-order: stroke fill;
+}
+
+h2 {
+  color: #f4f4f4;
+  font-family: "Offbit";
+  font-size: 1.8vw;
+  line-height: 2vw;
+}
+p {
+  color: #f4f4f4;
+  font-family: "Normalidad";
+  font-size: 1vw;
+  line-height: 1.5vw;
+}
+/* 1 */
+.section-1 {
+  width: 100vw;
+}

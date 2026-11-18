@@ -1,0 +1,30 @@
+@media screen and (max-width: 500px) {
+  .section-9 {
+    margin-top: -1vw;
+  }
+  .section-10 {
+    flex-direction: column;
+    height: 43vw;
+    background-color: #1e1e1e;
+  }
+  .section-10-1 {
+    width: 100vw;
+    height: 21vw;
+  }
+  .divS-10 {
+    margin-left: 10vw;
+    width: 40vw;
+    height: 12vw;
+  }
+  .divS-10-1 {
+    width: 12vw;
+  }
+  .section-10-2 {
+    opacity: 0;
+    width: 0vw;
+    height: 0vw;
+  }
+}
+.rows {
+  margin-top: -1vw;
+}

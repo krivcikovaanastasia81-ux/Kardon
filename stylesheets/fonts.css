@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/NormalidadWide/fonnts.com-Normalidad_Wide_Light.otf")
+    format("truetype");
+  font-style: normal;
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/NormalidadWide/fonnts.com-Normalidad_Wide_Thin.otf")
+    format("truetype");
+  font-style: normal;
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Offbit";
+  src: url("../fonts/Offbit/OffBit-Bold.ttf") format("truetype");
+  font-style: bold;
+  font-weight: 700;
+}
