@@ -6,3 +6,14 @@
     transform: translateX(-50%);
   }
 }
+@keyframes cubes-go-in-line {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(98vw);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
