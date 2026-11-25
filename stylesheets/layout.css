@@ -19,7 +19,7 @@ h1 {
 h2 {
   color: #181818;
   font-family: "HelveticaNeueCyr";
-  font-size: 3vw;
+  font-size: 2.5vw;
   line-height: 2vw;
 }
 h3 {
@@ -166,4 +166,66 @@ p {
 #cube {
   margin-top: -2vw;
   width: 40.33vw;
+}
+/* 2 */
+.section-2 {
+  box-sizing: border-box;
+  width: 100vw;
+  height: 35vw;
+  background-color: #f3f0e7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4vw;
+}
+.title-s2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 0.5vw;
+  width: 40vw;
+  height: 27vw;
+  background-color: #902649;
+  border-radius: 2vw;
+}
+#h2-2 {
+  color: #f3f0e7;
+  margin-top: 3vw;
+}
+#p-2 {
+  color: #f3f0e7;
+  margin-top: 2vw;
+}
+#p-3 {
+  color: #f3f0e7;
+  margin-top: 4vw;
+}
+.photo-s2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 0.5vw;
+  width: 40vw;
+  height: 27vw;
+  border-radius: 2vw;
+  background-image: url("../images/photo_2026-11-25_12-33-21_upscayl_2x_ultrasharp-4x.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/* 3 */
+.section-3 {
+  box-sizing: border-box;
+  width: 100vw;
+  height: 40vw;
+  background-color: #aba698;
+  display: flex;
+}
+/* footer */
+.footer {
+  box-sizing: border-box;
+  width: 100vw;
+  height: 40vw;
+  background-color: #84827e;
+  display: flex;
 }
